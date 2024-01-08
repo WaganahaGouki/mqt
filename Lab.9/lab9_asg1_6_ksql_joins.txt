@@ -1,0 +1,9 @@
+1. Considering the already created topics in the previous exercises you can try to create some stream-stream joins and stream-table joins.
+
+ https://www.youtube.com/watch?v=8NQhfhSAmqo
+
+ https://www.youtube.com/watch?v=-Ys3FzQdq_o
+ 
+ 
+2. Create the topics and streams according with the ones presented into videos.
+Add in your answer the used queries. 
